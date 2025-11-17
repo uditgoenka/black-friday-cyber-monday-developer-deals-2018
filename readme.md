@@ -21,6 +21,7 @@
 * [Adobe Creative Cloud](https://www.adobe.com/) - 25% off
 * [GitKraken](https://www.gitkraken.com/) - 20% off GitKraken Pro. Use Code `”GKBF18”`
 * [Affinity](https://affinity.serif.com) - 30% off all products.
+* [SEOengine.ai](https://seoengine.ai) - SEOengine.ai deploys 5 specialized AI agents that analyze competitors, mine real user questions from Reddit/Quora, and generate 4,000-6,000 word AEO-optimized articles in your authentic brand voice. From research to publication-ready content with E-E-A-T compliance, internal linking, and multimedia integration—all automated in one seamless workflow. - 35% OFF with code BLACKFRIDAY (Nov 17 - Dec 7).
 
 ## Hosting
 * [RemoteMac](https://remotemac.io/blackfriday) - Upto 50% off. 
